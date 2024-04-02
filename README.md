@@ -13,7 +13,7 @@
 - ⚡ Fun fact: I love the Premier League
 
 ### Connect with me:
-[LinkedIn](https://www.linkedin.com/in/diego-gabriel-garc%C3%ADa-troisi-1143b582)
+[LinkedIn](https://www.linkedin.com/in/garciatroisi) Diego Gabriel Garcia Troisi
 
 ### Soft Skills:
 - Strategic decision-maker and problem solver
