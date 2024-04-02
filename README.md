@@ -1,4 +1,4 @@
-### Hi there, I'm Diego Garcia - aka [garciatroisi] 👋
+### Hi there, I'm Diego Garcia - aka garciatroisi 👋
 
 - 15+ years working on software solutions
 - In recent years, I've dedicated myself wholeheartedly to the blockchain field
