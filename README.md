@@ -1,31 +1,48 @@
 ### Hi there, I'm Diego Garcia - aka [garciatroisi] 👋
 
-[![Linkedin Follow]](https://www.linkedin.com/in/diego-gabriel-garc%C3%ADa-troisi-1143b582/)
+- 15+ years working on software solutions
+- In recent years, I've dedicated myself wholeheartedly to the blockchain field
+- Now, I seek challenges in leadership roles or high-impact technical positions
+- Seeking a position in a healthy and collaborative work environment
 
 ## I'm a Blockchain Engineer, Magister in IT Management - Software Engineer
 
-- 🌱 I’m currently learning about blockchain in deep
-- 👯 I’m looking to collaborate with new projects
+- 🌱 I’m currently learning about blockchain in depth
+- 👯 I’m looking to collaborate on new projects
 - 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love the Premier League
 
 ### Connect with me:
-[linkedin]: https://www.linkedin.com/in/diego-gabriel-garc%C3%ADa-troisi-1143b582
+[LinkedIn](https://www.linkedin.com/in/diego-gabriel-garc%C3%ADa-troisi-1143b582)
 
-### Languages and Tools:
+### Soft Skills:
+- Strategic decision-maker and problem solver
+- Critical thinking and analytical skills
+- Honesty and empathy
+- Successful working as a team player as well as independently
+- Time management. Planner, organized, and proactive
+- Flexibility and ability to adapt to changing environments
+- Ability to prioritize
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br />
-<br />
-
----
+### Hard Skills:
+- Project Management, Software Architecture, Agile Methodology
+- JavaScript/Node.js, TypeScript, Solidity, Hardhat, Web3, Ethers, TheGraph, OpenZeppeling, IPFS
+- Worked in .NET Framework, C#, WCF, WPF
+- SQL Server, MySQL, MongoDB, Firebase, Redis
+- Ability to code APIs, Scripts, batch, with frontend frameworks, and more
+- Mobile Apps with Ionic Framework
  
+### Education:
+- Master of IT Management, Catolica University, 2017
+- Bachelor of Software Engineering, University of the Republic, 2012
+- Cambridge English- BEC Vantage
+- Ethereum and Solidity Dev Guide
+- Advanced Solidity: Understanding and Optimizing Gas Costs
+- GraphQL Course
+- The Complete Node.js Developer Course
+- The 7 Habits of Highly Effective People
+- Mindfulness Course
+- Implementing a Microsoft SQL Server
+- DEVELOPING BIZTALK SERVER
+- VMWARE Virtualization
+
