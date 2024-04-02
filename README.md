@@ -1,6 +1,6 @@
 ### Hi there, I'm Diego Garcia - aka [garciatroisi] 👋
 
-[![Linkedin Follow](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/diego-gabriel-garc%C3%ADa-troisi-1143b582/)
+[![Linkedin Follow]](https://www.linkedin.com/in/diego-gabriel-garc%C3%ADa-troisi-1143b582/)
 
 ## I'm a Blockchain Engineer, Magister in IT Management - Software Engineer
 
